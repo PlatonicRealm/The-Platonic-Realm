@@ -25,19 +25,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Queen Mary University of London
+    url: https://www.qmul.ac.uk/spa/astro/research/cosmology-and-relativity/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Theoretical Cosmology
+      institution: Queen Mary University of London
+      year: ""
+    - course: MSc in Mathematical and Theoretical Physics
+      institution: University of Oxford
+      year: 2019
+    - course: BSc in Physics and Philosophy
+      institution: University of Oxford
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false

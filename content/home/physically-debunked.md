@@ -9,7 +9,7 @@ content:
   filters:
     tag:'physically-debunked'
 design:
-  view: 3
+  view: 0
 weight: 50
 title: Physically Debunked
 active: true

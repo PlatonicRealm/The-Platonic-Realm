@@ -1,9 +1,10 @@
 ---
 title: Matthew Davies
 role: Theoretical Cosmology PhD Student
-avatar_filename: qmul-photo.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: img_0122.jpg
+bio: I'm a PhD student working on inflation. I have a broad range of interests
+  spanning physics, philosophy and religion. I like to present and discuss
+  fascinating ideas in these fields on my social media pages.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +43,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+I am currently a PhD student in the Queen Mary University of London's Astronomy Unit. My research focuses on topics in early universe cosmology such as inflation, primordial black holes and gravitational waves. I regularly deliver outreach talks on both standard cosmology and my own research.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Outside of my research I dabble in several areas of philosophy. I am particularly interested in fine-tuning issues in cosmology and what we should infer from them. I am an atheist and regularly enjoy exploring arguments for and against the existence of God.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I find the world around us utterly fascinating to investigate from all angles. I love to share the interesting things I've learned via social media and outreach. On my two YouTube channels, Physically Debunked and Shots In The Quark, I discuss the science and philosophy which informs my atheism and various topics in philosophy of physics that I think more people should be aware of.

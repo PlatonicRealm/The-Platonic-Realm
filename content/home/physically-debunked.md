@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: content feed
 widget_id: Physically Debunked
 headless: true
 weight: 50

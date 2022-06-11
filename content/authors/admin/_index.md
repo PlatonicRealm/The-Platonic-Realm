@@ -1,7 +1,7 @@
 ---
 title: Matthew Davies
 role: Theoretical Cosmology PhD Student
-avatar_filename: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/322px-Mandel_zoom_00_mandelbrot_set.jpg
+avatar_filename: avatar.jpg
 bio: I'm a PhD student working on inflation. I have a broad range of interests
   spanning physics, philosophy and religion. I like to present and discuss
   fascinating ideas in these fields on my social media pages.

@@ -1,7 +1,7 @@
 ---
 widget: blank
 widget_id: Physically Debunked
-weight: 60
+weight: 50
 title: Physically Debunked
 active: true
 ---

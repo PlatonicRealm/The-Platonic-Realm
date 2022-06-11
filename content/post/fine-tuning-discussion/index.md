@@ -1,5 +1,5 @@
 ---
-title: Fine-Tuning Discussion
+title: Fine-Tuning Discussion feat. Philip Goff, Luke Barnes and Geraint Lewis
 date: 2022-06-11T18:20:13.664Z
 draft: false
 featured: false

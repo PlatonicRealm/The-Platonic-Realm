@@ -2,6 +2,14 @@
 widget: featured
 widget_id: Physically Debunked
 headless: true
+content:
+  page_type: post
+  count: 3
+  order: desc
+  filters:
+    tag:'physically-debunked'
+design:
+  view: 3
 weight: 50
 title: Physically Debunked
 active: true

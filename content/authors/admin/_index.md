@@ -1,5 +1,5 @@
 ---
-title: Matthew Davies
+title: Matthew W. Davies
 role: Theoretical Cosmology PhD Student
 avatar_filename: avatar.jpg
 bio: I'm a PhD student working on inflation. I have a broad range of interests

@@ -9,23 +9,23 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publications"
+  url = "#publications"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Blog"
+  url = "#the-platonic-realm"
   weight = 30
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Shots In The Quark"
+  url = "#shots-in-the-quark"
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Physically Debunked"
+  url = "#physically-debunked"
   weight = 50
 
 [[main]]

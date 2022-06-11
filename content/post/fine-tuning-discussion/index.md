@@ -9,5 +9,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
 ---
-https://www.youtube.com/watch?v=iyhFjvApvm0&t=2965s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iyhFjvApvm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

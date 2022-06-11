@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Shots In The Quark
 headless: true
-weight: 30
+weight: 40
 title: Shots In The Quark
 active: true
 design:

@@ -2,7 +2,7 @@
 widget: blank
 widget_id: The Platonic Realm
 headless: true
-weight: 10
+weight: 20
 title: The Platonic Relam
 active: true
 design:

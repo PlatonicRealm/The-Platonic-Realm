@@ -37,4 +37,8 @@ design:
   columns: '2'
 ---
 
-Physically Debunked is a channel dedicated to discussion of topics relevant to one of the biggest questions of them all: whether or not a God exists. Learning more about the world around us, through both science and philosophy, lead me to atheism. I want to share some of the fascinating things I've learned about reality and how it informs my disbelief in God.
+Physically Debunked is a channel dedicated to discussion of topics relevant to one of the biggest questions of them all: whether or not a God exists. Learning more about the world around us, through both science and philosophy, lead me to atheism. I want to share some of the fascinating things I've learned about reality and how it informs my disbelief in God. You can find my channel here:
+
+https://www.youtube.com/channel/UCIUZDClwsT9a8l4e2mt4flA
+
+

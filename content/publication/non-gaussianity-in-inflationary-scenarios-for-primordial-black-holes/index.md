@@ -3,6 +3,7 @@ title: Non-Gaussianity in inflationary scenarios for primordial black holes
 publication_types:
   - "2"
 authors: []
+doi: https://doi.org/10.48550/arXiv.2110.08189
 draft: false
 featured: true
 image:

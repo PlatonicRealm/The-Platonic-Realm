@@ -2,7 +2,7 @@
 widget: blank
 widget_id: Publications
 headless: true
-weight: 10
+weight: 20
 title: Publications
 active: true
 design:

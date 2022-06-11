@@ -6,25 +6,26 @@ bio: I'm a PhD student working on inflation. I have a broad range of interests
   spanning physics, philosophy and religion. I like to present and discuss
   fascinating ideas in these fields on my social media pages.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cosmology
+  - Inflation
+  - Philosophy
+  - Atheism
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: m.w.davies@qmul.ac.uk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/PlatosRealm
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?hl=en&user=z3h-eIsAAAAJ
+  - icon: youtube
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://www.youtube.com/channel/UCIUZDClwsT9a8l4e2mt4flA
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/matthew-davies-b5798b19a/
 organizations:
   - name: Queen Mary University of London
     url: https://www.qmul.ac.uk/spa/astro/research/cosmology-and-relativity/

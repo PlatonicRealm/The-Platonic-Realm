@@ -14,8 +14,8 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - publications
-    tag: ''
+      - pages
+    tag: 'publication'
     category: ''
     publication_type: ''
     author: ''

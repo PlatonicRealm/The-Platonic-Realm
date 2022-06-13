@@ -14,7 +14,7 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - pages
+      - post
     tag: 'publication'
     category: ''
     publication_type: ''

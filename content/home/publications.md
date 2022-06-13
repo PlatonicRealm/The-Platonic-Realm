@@ -15,9 +15,8 @@ subtitle: ''
 content:
   # Filter on criteria
   filters:
-    folders:
-      - post
-    tag: 'inflation'
+    folders:''
+    tag: ''
     category: ''
     publication_type: ''
     author: ''

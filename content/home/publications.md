@@ -1,21 +1,23 @@
 ---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
 title: Publications
 subtitle: ''
 
-# Position of this section on the page
-weight: 20
-
 content:
-  # Filter content to display
+  # Filter on criteria
   filters:
-    # The folders to display content from
     folders:
-      - post
-    tag: 'publication'
+      - publication
+    tag: ''
     category: ''
     publication_type: ''
     author: ''
@@ -25,14 +27,11 @@ content:
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Choose how many pages you would like to offset by
-  # Useful if you wish to show the first item in the Featured widget
   offset: 0
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
 design:
-  # Choose a listing view
-  view: list
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  # Choose a view for the listings:
+  view: citation
+  columns: '2'
 ---

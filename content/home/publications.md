@@ -15,7 +15,8 @@ subtitle: ''
 content:
   # Filter on criteria
   filters:
-    folders:''
+    folders:
+      - post
     tag: ''
     category: ''
     publication_type: ''
